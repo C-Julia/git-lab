@@ -42,4 +42,30 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
 	.nfs0000000000058281000000d9
-Answer 7: 
+Answer 7: n branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.nfs0000000000058281000000d9
+
+nothing added to commit but untracked files present (use "git add" to track)
+Answer 8: commit 326a7dcb64fcc7aaa087823d5083e433a332eadc (HEAD -> master)
+Author: C-Julia <JC362818@ohio.edu>
+Date:   Wed Sep 4 16:46:12 2019 -0400
+
+    Initial Commit
+Answer 9: On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.nfs0000000000058281000000d9
+(I haven't updated answers.md since entering Answer 8)
+Answer 10: 
