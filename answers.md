@@ -28,4 +28,18 @@ Untracked files:
 
 	.nfs0000000000058281000000d9
 	answers.md
-Answer 6:
+Answer 6: On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.MD
+	new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.nfs0000000000058281000000d9
+Answer 7: 
