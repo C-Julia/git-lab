@@ -68,4 +68,14 @@ Untracked files:
 
 	.nfs0000000000058281000000d9
 (I haven't updated answers.md since entering Answer 8)
-Answer 10: 
+Answer 10: No, my editing on the github copy was not reflected in my local copy because I have not updated my local copy yet.
+Answer 11: To https://github.com/C-Julia/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/C-Julia/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+Answer 12: Yes, my changes were reflected in my local copy once I pulled.
+Answer 13: .  ..  .git  .gitignore  README.md
+Answer 14: 
